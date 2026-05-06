@@ -17,7 +17,7 @@ Real detection. Real quarantine. Real protection. No subscriptions. No telemetry
 
 ## 🛡️ What is Astrom?
 
-Astrom is a real antivirus — not a toy project. It scans files using multiple detection layers, monitors your filesystem in real time, isolates threats in quarantine, and runs silently from your system tray. Built entirely in Python and fully open source.
+Astrom is a real antivirus — not a toy project. It scans files using multiple detection layers, monitors your filesystem in real time, isolates threats in quarantine, and runs silently from your system tray. Built entirely in Python and not open source.
 
 ---
 
