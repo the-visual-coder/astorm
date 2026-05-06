@@ -70,7 +70,7 @@ Astrom is a real antivirus — not a toy project. It scans files using multiple 
 2. Download **`Astrom_Installer.exe`**
 3. Run it and follow the setup wizard
 
-> ⚠️ Windows may show a SmartScreen warning because Astrom isn't code-signed yet. Click **"More info" → "Run anyway"** to proceed. This is a known limitation of unsigned open-source software.
+> ⚠️ Windows may show a SmartScreen warning because Astrom isn't code-signed yet. Click **"More info" → "Run anyway"** to proceed. This is a known limitation of unsigned software.
 
 ## 🗺️ Roadmap
 
@@ -90,7 +90,7 @@ Astrom is an non-opensource project for educational and personal use. It is not 
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT — You may use but you may NOT modify, and distribute without explicit permission.
 
 ---
 
